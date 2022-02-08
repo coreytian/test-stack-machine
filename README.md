@@ -5,8 +5,6 @@ A PHP command line tool of stack machine.
 ## Requirements
 
 * PHP >= 7.3
-* Composer
-
 
 ## Installation
 
