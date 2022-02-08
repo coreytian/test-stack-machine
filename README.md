@@ -12,12 +12,16 @@ A PHP command line tool of stack machine.
 
 #### Download and install
 
-Download unzip the file on your local disk.
+Download and unzip the package on your local disk.
 
 #### Install with Git
 
-Clone the project and install the dependencies:
+Clone the project:
+```
+https://github.com/coreytian/test-stack-machine.git
+```
 
+Install the dependencies:
 ```
 composer install
 ```
